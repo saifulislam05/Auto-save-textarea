@@ -8,7 +8,11 @@ module.exports = {
     themes: [
       "light",
       "dark",
-     
+      "cupcake",
+      "retro",
+      "cyberpunk",
+      "valentine",
+      "aqua",
     ],
   },
   plugins: [require("daisyui")],
